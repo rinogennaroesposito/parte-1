@@ -2,7 +2,7 @@ Per gli utilizzi commerciali dell’opera, l’autore concede una licenza separa
 dietro pagamento di una royalty pari al [X%] dei ricavi generati dall’opera,
 o un compenso fisso di [importo]. Qualsiasi uso commerciale senza accordo
 esplicito è vietato.
-opyright (c) 2025] [Rinogennaroesposito]
+copyright (c) 2025] [Rinogennaroesposito]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
