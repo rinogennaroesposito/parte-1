@@ -1,0 +1,21 @@
+Per gli utilizzi commerciali dell’opera, l’autore concede una licenza separata
+dietro pagamento di una royalty pari al [X%] dei ricavi generati dall’opera,
+o un compenso fisso di [importo]. Qualsiasi uso commerciale senza accordo
+esplicito è vietato.
+opyright (c) 2025] [Rinogennaroesposito]
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+THE SOFTI contenuti (testi, immagini, audio, documentazione creativa) di questo
+repository sono rilasciati sotto Creative Commons Attribution-NonCommercial
+4.0 International (CC BY-NC 4.0). Per dettagli: 
+https://Per gli usi commerciali dei contenuti, l’autore concede licenza separata
+dietro pagamento di una royalty pari al [5%] dei ricavi netti o un compenso
+fisso di [importo]. Qualsiasi uso commerciale senza accordo esplicito è
+vietato. Contatto: [esposigennaro@gmail.com].
+creativecommons.org/licenses/by-nc/4.0/deed.itWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
